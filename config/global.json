@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Picool": {
+            "applicationId": "rb0IDCbcV1jhp5gx74Nsp7i5ScyRCKaFrHhh1IgZ", 
+            "masterKey": "gvxJjcf2Q789jojqfCgJiFpWng0Y0utz81BwXe0K"
+        }, 
+        "_default": {
+            "link": "Picool"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
